@@ -6,7 +6,7 @@ Deployment1->https://laptoppriceprediction-v1-akshats063.streamlit.app/
 Deployment 2->
 https://predict-laptop-price-5120.onrender.com/
 
-Accuracy:88.9%
+Accuracy:88.7%
 R2 score 0.8873402378382488
 MAE 0.15860130110457718
 
