@@ -1,5 +1,5 @@
 
-# Neural Machine Translation 
+# Laptop Price Prediction
 This is official repository of Laptop Price Prediction web app
 using Random Forest regression Model
 Deployment1->https://laptoppriceprediction-v1-akshats063.streamlit.app/
