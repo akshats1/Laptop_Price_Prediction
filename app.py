@@ -10,7 +10,7 @@ pipe = pickle.load(open('pipe.pkl','rb'))
 #df = pickle.load(open('df.pkl','rb'))
 df=pd.read_pickle('df.pkl')
 
-st.title("Laptop Predictor")
+st.title("Laptop Predictor By Akshat")
 
 # brand
 company = st.selectbox('Brand',df['Company'].unique())
